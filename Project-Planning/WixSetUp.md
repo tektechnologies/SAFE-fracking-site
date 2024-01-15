@@ -17,3 +17,15 @@
 ## Email yearly cost
 
 ![Domain Purchase](/Project-Planning/images/email-cost-total.png)
+
+## Sign in to email at google
+
+![Domain Purchase](/Project-Planning/images/email-signin-at-google.png)
+
+## google account email
+
+![Domain Purchase](/Project-Planning/images/google-gmail-account-info@dontfracillinoiseamil.png)
+
+## select email while setting up Wix
+
+![Domain Purchase](/Project-Planning/images/wix-email-selection.png)
