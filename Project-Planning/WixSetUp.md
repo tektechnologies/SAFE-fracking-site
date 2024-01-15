@@ -10,4 +10,10 @@
 8. Select template for website
 9. Edit webpage title and publish.
 
+## Website Domain
+
 ![Domain Purchase](/Project-Planning/images/domain-purchase-firstyearonly.png)
+
+## Email yearly cost
+
+![Domain Purchase](/Project-Planning/images/email-cost-total.png)
