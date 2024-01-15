@@ -10,4 +10,4 @@
 8. Select template for website
 9. Edit webpage title and publish.
 
-![Domain Purchase](Project-Planning/images/domain-purchase-firstyearonlineonly.png)
+![Domain Purchase](/Project-Planning/images/domain-purchase-firstyearonly.png)
