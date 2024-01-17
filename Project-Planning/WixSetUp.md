@@ -35,3 +35,7 @@
 1. watch tutorial on youtube: Build your website with the Wix Editor
 
 - ``` https://www.youtube.com/watch?v=hCGK01w1bfw ```
+
+- add social media link to facebook icon
+
+![Form Submission](/Project-Planning/images/form-email-submission.png)
