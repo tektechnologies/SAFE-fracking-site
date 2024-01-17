@@ -29,3 +29,9 @@
 ## select email while setting up Wix
 
 ![Domain Purchase](/Project-Planning/images/wix-email-selection.png)
+
+## Learn Wix
+
+1. watch tutorial on youtube: Build your website with the Wix Editor
+
+- ``` https://www.youtube.com/watch?v=hCGK01w1bfw ```
