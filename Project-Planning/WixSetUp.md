@@ -39,3 +39,11 @@
 - add social media link to facebook icon
 
 ![Form Submission](/Project-Planning/images/form-email-submission.png)
+
+## Website setup and edits and updates 1-17-2024
+
+- Faviocon
+- added some banner images of southern Illinois
+- connected form submission to SAFE email
+- tested out subscribe, contact form WE have two more forms we can create and add to the site
+- tested site links and general interface usage
