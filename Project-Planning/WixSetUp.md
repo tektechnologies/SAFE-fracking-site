@@ -50,4 +50,5 @@
 - set up social media link to facebook
 - add paypal api to donate page
 - update donate pop up window with data from old site
-- 
+- update banner text need to find a home for the home page text content
+- BUILT out the about page added mission, vision and history text ABOUT the org.
