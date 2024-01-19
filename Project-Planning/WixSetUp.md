@@ -52,3 +52,4 @@
 - update donate pop up window with data from old site
 - update banner text need to find a home for the home page text content
 - BUILT out the about page added mission, vision and history text ABOUT the org.
+- update the footer with contact form text and address, phone, email and social media link
