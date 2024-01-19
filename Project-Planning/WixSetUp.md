@@ -49,4 +49,5 @@
 - tested site links and general interface usage
 - set up social media link to facebook
 - add paypal api to donate page
+- update donate pop up window with data from old site
 - 
