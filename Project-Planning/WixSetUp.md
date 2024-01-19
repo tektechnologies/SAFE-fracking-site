@@ -47,3 +47,6 @@
 - connected form submission to SAFE email
 - tested out subscribe, contact form WE have two more forms we can create and add to the site
 - tested site links and general interface usage
+- set up social media link to facebook
+- add paypal api to donate page
+- 
