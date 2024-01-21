@@ -53,3 +53,10 @@
 - update banner text need to find a home for the home page text content
 - BUILT out the about page added mission, vision and history text ABOUT the org.
 - update the footer with contact form text and address, phone, email and social media link
+
+## Updates 
+
+- update Paypal desktop image and link to donation page
+- update Paypal mobile link with qr code for donation
+- test both mobile and desktop links and completed donation online
+- update home page link to the donations page.
