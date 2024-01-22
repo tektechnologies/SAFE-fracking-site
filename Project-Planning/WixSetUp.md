@@ -68,3 +68,4 @@
 - add navigation link to menu for linking to fracking 101 page
 - udpate image slider on about page
 - update the about page with history and disclaimer from the old mission page currently 404
+- add 700 post from word press site to the wix site still have a few to upload
