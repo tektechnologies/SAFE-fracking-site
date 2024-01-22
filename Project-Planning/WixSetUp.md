@@ -64,3 +64,5 @@
 - test links for all three social media
 - test get involved form on website - sends to email address
 - update text on the get involved page
+- create web page for the fracking 101 content
+- add navigation link to menu for linking to fracking 101 page
