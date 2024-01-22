@@ -66,3 +66,5 @@
 - update text on the get involved page
 - create web page for the fracking 101 content
 - add navigation link to menu for linking to fracking 101 page
+- udpate image slider on about page
+- update the about page with history and disclaimer from the old mission page currently 404
