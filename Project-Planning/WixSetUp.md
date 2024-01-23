@@ -69,3 +69,29 @@
 - udpate image slider on about page
 - update the about page with history and disclaimer from the old mission page currently 404
 - add 700 post from word press site to the wix site still have a few to upload
+
+## to do this week
+
+- add 8 posts left
+- update fracking 101 page
+- update random paragraphs throughout the site
+- update broken images on the site
+- update organizational logo for vector file type
+- scrape the old website for comments, images, files, unused web page content
+
+
+## Project Milestones to complete
+
+- Point old domain to new website, to drive .net traffic to the new .org site
+- One page Flyer introducing the new.
+- SAFE  member creates wix account to accept the website project into your account from the developers.
+- Developer Ports the website to SAFE Wix account for future ownership.
+- Add SAFE member to the new email address for the website
+
+## Items to manage going forward
+
+- Capture any email messages from the .net account.
+- Remove any unused email accounts from the blue host .net account
+- Compare the google email account SAFE is using with the new website email compare options. 
+- 
+- 
