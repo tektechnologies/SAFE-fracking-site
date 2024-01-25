@@ -94,3 +94,7 @@
 - Remove any unused email accounts from the blue host .net account
 - Compare the google email account SAFE is using with the new website email compare options. 
 - sent out update email on work completed. 1-22-24
+- update 101 page with title, intro paragraph
+- add in links from earthworks
+- add table of additive type in a new format
+
