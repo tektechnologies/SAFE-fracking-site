@@ -98,3 +98,4 @@
 - add in links from earthworks
 - add table of additive type in a new format
 - download all image from site in zip format includes pdf files as well
+- downloaded the public html folder with the entire old site
