@@ -105,3 +105,4 @@
 - delete old email and potential virus links in emails
 - found out how to point domain to the new site
 - updated the new site 101 page
+- pointed old domain to new website
