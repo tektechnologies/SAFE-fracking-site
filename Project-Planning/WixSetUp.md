@@ -99,3 +99,9 @@
 - add table of additive type in a new format
 - download all image from site in zip format includes pdf files as well
 - downloaded the public html folder with the entire old site
+
+## new week post sickness
+
+- delete old email and potential virus links in emails
+- found out how to point domain to the new site
+- updated the new site 101 page
