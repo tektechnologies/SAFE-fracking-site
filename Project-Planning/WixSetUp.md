@@ -106,3 +106,4 @@
 - found out how to point domain to the new site
 - updated the new site 101 page
 - pointed old domain to new website
+- review site for updates and sent email with tasks to do
