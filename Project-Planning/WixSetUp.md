@@ -107,3 +107,7 @@
 - updated the new site 101 page
 - pointed old domain to new website
 - review site for updates and sent email with tasks to do
+
+## new week
+
+- update instagram link in menu
