@@ -111,3 +111,7 @@
 ## new week
 
 - update instagram link in menu
+- information needed whos on the board
+- Team Members page - Who we are - board of directors team members
+- Pages to review - Home Page, Donations Page, About Page, Menu, Take Action Page
+- Do you have a copy of the logo design file
