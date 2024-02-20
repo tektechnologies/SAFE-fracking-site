@@ -116,3 +116,12 @@
 - Pages to review - Home Page, Donations Page, About Page, Menu, Take Action Page
 - Do you have a copy of the logo design file
 - emailed V and C with updates on next steps and asked for members names 2-12-24
+
+## TODOS week 2-19
+
+- get site logo from graphic artist this week
+- add vector graphic to website
+- schedule a zoom call with Vito / Cam
+- update 'who we are page'
+- get feed back on site set up
+- change color scheme possibly
