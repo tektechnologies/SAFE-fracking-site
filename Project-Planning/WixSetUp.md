@@ -132,3 +132,4 @@
 - added logo to menu page
 - added logo to the footer
 - added logo to the donate page
+- emailed logos and site updates to clients
