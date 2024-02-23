@@ -125,3 +125,10 @@
 - update 'who we are page'
 - get feed back on site set up
 - change color scheme possibly
+- got graphics of logo from artist
+- uploaded two versions of the logo to the site 
+- added logo to the top left
+- added logo to welcome banner
+- added logo to menu page
+- added logo to the footer
+- added logo to the donate page
