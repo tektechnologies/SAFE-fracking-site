@@ -133,3 +133,4 @@
 - added logo to the footer
 - added logo to the donate page
 - emailed logos and site updates to clients
+- sent out email to meet up next weekend First weekend in March 24
