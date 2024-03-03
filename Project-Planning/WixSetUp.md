@@ -134,3 +134,12 @@
 - added logo to the donate page
 - emailed logos and site updates to clients
 - sent out email to meet up next weekend First weekend in March 24
+
+## Post meeting with Jan Cam and Vito
+
+- Check website on mozilla
+- check webiste on various size screens
+- Complete the SEO set up on the website
+- Get information for the 'who we are page'
+- Check google dev console to see if we can initiate SEO on the google site.
+- Add 2 or 3 new posts to the site.
