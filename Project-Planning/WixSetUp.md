@@ -143,3 +143,12 @@
 - Get information for the 'who we are page'
 - Check google dev console to see if we can initiate SEO on the google site.
 - Add 2 or 3 new posts to the site.
+
+## week start
+
+- added dontfractureillinois.org to Google Search Console.
+- wix seo setup complete see the SEO folder
+- Google business profile set up
+- Qr code added to donate page
+
+- still need phone number, blog posts, and committee members info
