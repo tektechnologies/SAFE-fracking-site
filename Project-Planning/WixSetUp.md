@@ -137,11 +137,11 @@
 
 ## Post meeting with Jan Cam and Vito
 
-- Check website on mozilla
+- Check website on mozilla - X
 - check webiste on various size screens
-- Complete the SEO set up on the website
+- Complete the SEO set up on the website - X
 - Get information for the 'who we are page'
-- Check google dev console to see if we can initiate SEO on the google site.
+- Check google dev console to see if we can initiate SEO on the google site. - X
 - Add 2 or 3 new posts to the site.
 
 ## week start
@@ -150,5 +150,11 @@
 - wix seo setup complete see the SEO folder
 - Google business profile set up
 - Qr code added to donate page
-
 - still need phone number, blog posts, and committee members info
+
+## 3 - 11
+
+- - still need phone number, blog posts, and committee members info
+- update home page header with strips layout
+- update banner image with strips layout
+- update footer content with strips layout.
