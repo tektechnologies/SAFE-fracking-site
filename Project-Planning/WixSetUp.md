@@ -155,6 +155,14 @@
 ## 3 - 11
 
 - - still need phone number, blog posts, and committee members info
-- update home page header with strips layout
-- update banner image with strips layout
-- update footer content with strips layout.
+- update home page header with strips layout - Done
+- update banner image with strips layout - Done
+- update footer content with strips layout. - Done
+
+## 3 - 18
+
+- test site on mozilla
+- test site on Safari
+- test mobile
+- test desktop
+- still need phone number, blog posts, and committee members info
