@@ -161,8 +161,8 @@
 
 ## 3 - 18
 
-- test site on mozilla
-- test site on Safari
-- test mobile
-- test desktop
+- test site on mozilla - done 
+- test site on Safari - done
+- test mobile - done 
+- test desktop - done
 - still need phone number, blog posts, and committee members info
