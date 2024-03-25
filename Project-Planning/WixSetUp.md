@@ -166,3 +166,10 @@
 - test mobile - done 
 - test desktop - done
 - still need phone number, blog posts, and committee members info
+
+## 3 - 25
+
+- email out last steps before transfering site to SAFE org
+- need board member names
+- good phone number
+- talked with WIX advisor, he is ready to help when we are ready to transfer.
