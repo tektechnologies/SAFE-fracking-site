@@ -173,3 +173,8 @@
 - need board member names
 - good phone number
 - talked with WIX advisor, he is ready to help when we are ready to transfer.
+
+## 4 -1 
+
+- added board members to the who we are page
+- emailed with update complete tasks.
