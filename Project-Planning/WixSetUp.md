@@ -79,7 +79,6 @@
 - update organizational logo for vector file type
 - scrape the old website for comments, images, files, unused web page content
 
-
 ## Project Milestones to complete
 
 - Point old domain to new website, to drive .net traffic to the new .org site
@@ -92,7 +91,7 @@
 
 - Capture any email messages from the .net account.
 - Remove any unused email accounts from the blue host .net account
-- Compare the google email account SAFE is using with the new website email compare options. 
+- Compare the google email account SAFE is using with the new website email compare options.
 - sent out update email on work completed. 1-22-24
 - update 101 page with title, intro paragraph
 - add in links from earthworks
@@ -126,7 +125,7 @@
 - get feed back on site set up
 - change color scheme possibly
 - got graphics of logo from artist
-- uploaded two versions of the logo to the site 
+- uploaded two versions of the logo to the site
 - added logo to the top left
 - added logo to welcome banner
 - added logo to menu page
@@ -161,9 +160,9 @@
 
 ## 3 - 18
 
-- test site on mozilla - done 
+- test site on mozilla - done
 - test site on Safari - done
-- test mobile - done 
+- test mobile - done
 - test desktop - done
 - still need phone number, blog posts, and committee members info
 
@@ -174,7 +173,7 @@
 - good phone number
 - talked with WIX advisor, he is ready to help when we are ready to transfer.
 
-## 4 -1 
+## 4 -1
 
 - added board members to the who we are page
 - emailed with update complete tasks.
