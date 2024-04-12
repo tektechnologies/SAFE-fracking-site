@@ -173,7 +173,13 @@
 - good phone number
 - talked with WIX advisor, he is ready to help when we are ready to transfer.
 
-## 4 -1
+## 4 - 1
 
 - added board members to the who we are page
 - emailed with update complete tasks.
+
+## - 4 - 11
+
+- email feedback to include some banners need contrasting colors update or made more readable
+- discussed site trade off, I will reach out to my Wix contact on the proceedure for porting over the site.
+- need to update old .net domain to new site.
