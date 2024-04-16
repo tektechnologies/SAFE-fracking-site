@@ -183,3 +183,6 @@
 - email feedback to include some banners need contrasting colors update or made more readable
 - discussed site trade off, I will reach out to my Wix contact on the proceedure for porting over the site.
 - need to update old .net domain to new site.
+- commitee meeting set for may 4th. update email thread for tagging potential new tasks to work on for the site. 
+- need to prep email and wix account for transfer over
+- try to see if the old domain can get pointed again with bluehost not so great customer support
