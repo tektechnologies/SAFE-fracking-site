@@ -183,6 +183,15 @@
 - email feedback to include some banners need contrasting colors update or made more readable
 - discussed site trade off, I will reach out to my Wix contact on the proceedure for porting over the site.
 - need to update old .net domain to new site.
-- commitee meeting set for may 4th. update email thread for tagging potential new tasks to work on for the site. 
+- commitee meeting set for may 4th. update email thread for tagging potential new tasks to work on for the site.
 - need to prep email and wix account for transfer over
 - try to see if the old domain can get pointed again with bluehost not so great customer support
+
+## final change over to SAFE org
+
+- gmail account for Wix Login (<dontfractureillinois1@gmail.com>) and Wix email recovery for the (<info@dontfractureillinois.org>) email
+  that can also open and be managed in gmail. Or inside the Wix app itself.
+- the Wix email login and password is also set.
+- owner information and emails updated in Wix admin panel. Additional users are extra cost, so I can use the set login credentials same as SAFE uses to login to Wix to make updates.
+- need to remove Google brand account from dontfractureillinois1@gmail.com and add it to my own. 
+- need to update CC information with address from CC
